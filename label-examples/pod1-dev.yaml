@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: con1
-    image: quay.io/openshiftlabs/simpleservice:0.4.0
+    image: httpd:latest
     ports:
     - containerPort: 9870
