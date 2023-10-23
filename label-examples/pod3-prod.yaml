@@ -3,7 +3,7 @@ kind: Pod
 metadata:
   name: pod3
   labels:
-    env: dev
+    env: prod
 spec:
   containers:
   - name: con3
