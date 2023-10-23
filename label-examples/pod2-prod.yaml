@@ -7,6 +7,6 @@ metadata:
 spec:
   containers:
   - name: con2
-    image: http:latest
+    image: httpd:latest
     ports:
     - containerPort: 9870
