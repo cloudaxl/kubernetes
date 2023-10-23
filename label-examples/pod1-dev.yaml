@@ -9,4 +9,4 @@ spec:
   - name: con1
     image: httpd:latest
     ports:
-    - containerPort: 9870
+    - containerPort: 80
